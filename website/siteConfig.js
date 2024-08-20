@@ -30,7 +30,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'civis-docs',
+  projectName: 'docs',
   organizationName: 'civisrobotics',
   trailingSlash: false,
   // For top-level user or org sites, the organization is still the same.
